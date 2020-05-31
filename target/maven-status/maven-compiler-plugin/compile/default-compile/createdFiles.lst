@@ -1,0 +1,5 @@
+com\mycompany\pages\MyAccountPage.class
+com\mycompany\pages\WebTable.class
+com\mycompany\pages\PageBase.class
+com\mycompany\util\Browser.class
+com\mycompany\pages\HomePage.class
